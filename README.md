@@ -16,4 +16,4 @@
   - `KatSmithy_MenuText`는 설치하지 말아주세요.
   - KatSmithy 폴더 안에 있는 `strings_ko.tsv`을 지워주세요. (`string_ko.tsv`는 이미 우리 모드 폴더내에 포함되어 있습니다.)
 
-출처 : https://blog.naver.com/dudaos1123/221390808374
+### 한글패치 출처 : https://blog.naver.com/dudaos1123/221390808374
