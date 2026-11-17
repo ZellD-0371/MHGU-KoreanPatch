@@ -7,4 +7,13 @@
 에뮬레이터 모드 적용(테스트 안해봄) 혹은
 스위치 커펌후 모드 적용(테스트 안해봄)
 
+- 일반 / HD : HD판은 메모리 사용량 다소 증가
+
+### 호환되는 모드
+- [KatSmithy](https://gamebanana.com/mods/737929)
+
+- KatSmithy 모드 이용 시 고려해야 할 사항 :
+  - `KatSmithy_MenuText`는 설치하지 말아주세요.
+  - KatSmithy 폴더 안에 있는 `strings_ko.tsv`을 지워주세요. (`string_ko.tsv`는 이미 우리 모드 폴더내에 포함되어 있습니다.)
+
 출처 : https://blog.naver.com/dudaos1123/221390808374
