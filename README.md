@@ -8,6 +8,7 @@
 스위치 커펌후 모드 적용(테스트 안해봄)
 
 - 일반 / HD : HD판은 메모리 사용량 다소 증가
+- 띄어쓰기가 안되고 붙어서 표시 될 경우 인 게임 옵션에서 **Graphics & Audio** 탭에 있는 `Fix kerning`옵션을 off로 해주세요.
 
 ### 호환되는 모드
 - [KatSmithy](https://gamebanana.com/mods/737929)
