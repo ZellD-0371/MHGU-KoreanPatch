@@ -23,7 +23,7 @@
 
 - KatSmithy 모드 이용 시 고려해야 할 사항 :
   - `KatSmithy_MenuText`는 설치하지 말아주세요.
-  - KatSmithy 모드 폴더에서 romfs/nativeNX/fonts 폴더를 지워주세요 (Recomp 폰트말고 우리쪽 폰트를 쓰기 위함)
+  - KatSmithy 모드 폴더에서 `romfs/nativeNX/fonts` 폴더를 지워주세요 (Recomp 폰트말고 우리쪽 폰트를 쓰기 위함)
   - v1.0.6 이전부터 KatSmithy를 설치해서 실행했던 유저라면 무기 목록이 일부 영어로 나올 수 있습니다. 이를 해결하기 위해 Recomp save폴더에서 `tree_names.txt`를 지워주세요. (지워도 다시 생성되는데 다시 생성될때는 한국어로 나옵니다.)
 
 ### 한글패치 출처 : https://blog.naver.com/dudaos1123/221390808374
