@@ -17,6 +17,7 @@
 
 ### 일부 번역 수정
 - v1.1.0 이후 일부 번역을 월드 이후 시리즈의 정식 한국어 번역을 참고하여 바꿨습니다. 예) 샤갈마가라 -> 샤가르마가라, 도스맛카오 -> 도스마카오, 광폭 이블조 -> 미친 이블조
+[바뀐 번역](https://github.com/ZellD-0371/MHGU-KoreanPatch/blob/main/text_changes_v1.1.0.md)
 
 ### 호환되는 모드
 - [KatSmithy](https://gamebanana.com/mods/737929)
